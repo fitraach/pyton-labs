@@ -1,0 +1,2 @@
+#contoh pyton
+print("")

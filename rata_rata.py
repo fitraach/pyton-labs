@@ -1,0 +1,12 @@
+nilai = input("masukkan nilai: ")
+
+if(nilai>8:)
+print("A")
+elif(nilai>7:)
+print("B")
+elif(nilai>6:)
+print("C")
+elif(nilai>5:)
+print("D")
+else(selain itu:)
+print("E")
