@@ -1,4 +1,4 @@
-print("program conversi suhu")
+print("Program Conversi Suhu")
 
 input_celcius=input("masukkan suhu celcius : ")
 
